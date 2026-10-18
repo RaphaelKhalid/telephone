@@ -10,3 +10,6 @@ web/.next/
 web/.vercel/
 .gitjunk/
 _stale_public/
+
+# local agent notes (kept out of the repo)
+/PUSH.md
